@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ParkyWeb.Models;
@@ -83,6 +84,15 @@ namespace ParkyWeb.Controllers
         public async Task<IActionResult> GetAllNationalPark()
         {
             return Json(new { data = await _npRepo.GetAllAsync(SD.NationalParkAPIPath) });
+        }
+        public async Task<IActionResult> Delete(int id)
+        {
+            var status = await _npRepo.DeleteAsync(SD.NationalParkAPIPath, id);
+            if (status)
+            {
+                return Json(new { success = true, message = "Delete Successful" });
+            }
+            return Json(new { success = false, message = "Delete NOT Successful" });
         }
     }
 }
