@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QMmD24ArcwkgmU4RE9nd6gJSv923uGmZbVnYI4eBv1AUNlLCtr46+n7c24eGUgjPpHsaCzPAN8uzu0mWCLoidw==",
+  "dgSpecHash": "Fe9eJLs0av5nyIrY1gVnRVLIf3pO7U+LuWmHZL0208kTsFm+pu5gvP0+CUU/Ya7qoa+gUc76FtwvpKTJwqt9YA==",
   "success": true,
   "projectFilePath": "C:\\Development\\Parky\\ParkyAPI\\ParkyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erish\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\erish\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\erish\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
     "C:\\Users\\erish\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
     "C:\\Users\\erish\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\4.1.1\\microsoft.aspnetcore.mvc.versioning.apiexplorer.4.1.1.nupkg.sha512",
     "C:\\Users\\erish\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
