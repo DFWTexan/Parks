@@ -389,3 +389,6 @@ C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.csproj.CoreCompil
 C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Upsert.cshtml.g.cs
+C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Development\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
